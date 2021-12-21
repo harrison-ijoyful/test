@@ -24,6 +24,7 @@ func main() {
 	fmt.Println("log3")
 	fmt.Println("log4")
 	fmt.Println("log5")
+	fmt.Println("log6")
         <-done
     }
 }

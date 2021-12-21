@@ -21,6 +21,7 @@ func main() {
 	fmt.Println("done")
 	fmt.Println("feature/f2")
 	fmt.Println("create develop")
+	fmt.Println("log3")
         <-done
     }
 }

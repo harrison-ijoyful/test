@@ -23,6 +23,7 @@ func main() {
 	fmt.Println("create develop")
 	fmt.Println("log3")
 	fmt.Println("log4")
+	fmt.Println("d.log1")
         <-done
     }
 }
